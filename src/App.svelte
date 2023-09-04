@@ -1,6 +1,4 @@
 <script>
-import Fa from 'svelte-fa'
-import { faBolt, faFire } from '@fortawesome/free-solid-svg-icons'
 
 import { csv } from 'd3-fetch';
 
